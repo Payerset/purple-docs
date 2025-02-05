@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [PurpleLab Price Transparency Documentation & Onboarding](README.md)
