@@ -10,12 +10,10 @@ On the home screen, you will also find information about your saved analyses, in
 
 To open an existing analysis, simply click on it. This will allow you to explore the associated data. If you're looking for a specific analysis you’ve created in the past, you can also use the search function. (Tip: Remember to press Enter after typing your search terms.)
 
-
-
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Home Screen</p></figcaption></figure>
 
 {% hint style="info" %}
-To get back to the home screen at any time, click the Payerset logo in the top left corner.
+To get back to the home screen at any time, click the PurpleLab logo in the top left corner.
 {% endhint %}
 
 \
@@ -24,7 +22,7 @@ You can also modify your account settings, like changing your email address, dis
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Profile</p></figcaption></figure>
 
 {% hint style="info" %}
-You can collapse the left-hand navigation at any time using the tray icon to the right of the Payerset logo.
+You can collapse the left-hand navigation at any time using the tray icon to the right of the PurpleLab logo.
 {% endhint %}
 
 But enough of the intro, to get started, let's create our first analysis using the Rate Comparison Tool!

@@ -13,7 +13,7 @@ The Comparison Analysis tool allows you to select a series of billing codes, pay
 You can create a Comparison Analysis in two ways:
 
 1. Select "Create a Rate Comparison" from the main tile on the home page OR
-2. &#x20;in the top right-hand side of the screen, you will see a button called **New analysis** - click that to start choosing billing codes, payers, and providers for your dataset.
+2. in the top right-hand side of the screen, you will see a button called **New analysis** - click that to start choosing billing codes, payers, and providers for your dataset.
 
 We'll select "Create a Rate Comparison from the homescreen.
 
@@ -21,17 +21,17 @@ We'll select "Create a Rate Comparison from the homescreen.
 
 ### Choose Date Snapshot
 
-Payerset provides you with both current and historical views of rates. The system automatically populates data with the most recent available date. Additionally, you can select an alternative snapshot date from the dropdown menu to explore how rates have evolved over time, gaining valuable insights into trends and changes.
+PurpleLab provides you with both current and historical views of rates. The system automatically populates data with the most recent available date. Additionally, you can select an alternative snapshot date from the dropdown menu to explore how rates have evolved over time, gaining valuable insights into trends and changes.
 
 {% hint style="warning" %}
-Stay tuned for further enhancements to utilizing these historical rates for advanced analysis and comparisons&#x20;
+Stay tuned for further enhancements to utilizing these historical rates for advanced analysis and comparisons
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Choose your Services (Billing Codes)
 
-First, choose the billing codes you are interested in analyzing. You can filter on code type (CPT/HCPCS/DRG) or categories/subcategories that Payerset has created. To learn more, see our [Payerset Billing Code Classification documentation](../../data-lake/payerset-billing-code-classification.md). You can also use the search to find specific codes or code families, like "2744" or "Knee".
+First, choose the billing codes you are interested in analyzing. You can filter on code type (CPT/HCPCS/DRG) or categories/subcategories that PurpleLab has created. You can also use the search to find specific codes or code families, like "2744" or "Knee".
 
 <figure><img src="../../.gitbook/assets/Kapture 2024-12-18 at 13.01.52.gif" alt=""><figcaption></figcaption></figure>
 
@@ -51,7 +51,7 @@ Select "Next, choose your Providers" to move to the next step.
 
 ### Choose your Providers
 
-Next, the Rate Comparison tool will crawl our data catalog using your selections of billing codes and payers to find which providers have negotiated rates posted in the payer price transparency data.&#x20;
+Next, the Rate Comparison tool will crawl our data catalog using your selections of billing codes and payers to find which providers have negotiated rates posted in the payer price transparency data.
 
 {% hint style="warning" %}
 It's important to note that this process is continuing to evolve and payers are getting more compliant each month, so it's possible that providers that _should_ have rates for a particular code and payer do not (yet).

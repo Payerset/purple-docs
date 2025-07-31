@@ -3,28 +3,17 @@ description: >-
   Below are ~600 hospitals that are compliant, or compliant enough to normalize,
   with the latest mandate from CMS.
 icon: flag-usa
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # MRF Links by State
 
-If you have additional links to share, please send them to info@payerset.com and we are happy to add them to this published list so we can ensure everyone has access to the latest data.
+If you have additional links to share, please send them to success@purplelab.com and we are happy to add them to this published list so we can ensure everyone has access to the latest data.
 
 {% hint style="info" %}
 Please note that some of these MRF Links go directly to file downloads, while others are links to the base website where you can find the files.
 {% endhint %}
 
-The record count indicates the number of records contained in each hospital file based on the way that Payerset flattens and normalizes the dataset - it is intended to be a guide for how much data is present in each file should you try to download and use the file yourself.
+The record count indicates the number of records contained in each hospital file based on the way that PurpleLab flattens and normalizes the dataset - it is intended to be a guide for how much data is present in each file should you try to download and use the file yourself.
 
 Additional information about what data is contained in these files can be found in our [hospital-mrf-standard-charges-beta.md](../rate-explorer/training-and-onboarding/hospital-mrf-standard-charges-beta.md "mention") onboarding documentation.
 

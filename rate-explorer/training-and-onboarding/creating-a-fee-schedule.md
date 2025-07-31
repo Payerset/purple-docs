@@ -6,7 +6,7 @@ description: Learn how to create an analysis
 
 ### Fee Schedule Creation
 
-The Fee Schedule tool allows you to select a single NPI and payer to generate the full list of rates by billing code for that particular NPI and Payer.&#x20;
+The Fee Schedule tool allows you to select a single NPI and payer to generate the full list of rates by billing code for that particular NPI and Payer.
 
 {% hint style="warning" %}
 **Note:** Fee Schedules only include rates where the Billing Code Modifier is either blank, 00, 26, or TC.
@@ -21,7 +21,7 @@ There are two ways to create a new Fee Schedule. You can use the "New analysis" 
 Similar to creating a Rate Comparison, you can also choose a date snapshot when creating Fee Schedule. The data will auto populate to the most recent available date. You can select an alternative snapshot date from the dropdown to view rates and gain insights to how they may have changed over time.
 
 {% hint style="warning" %}
-Stay tuned for further enhancements to utilizing these historical rates for advanced analysis and comparisons&#x20;
+Stay tuned for further enhancements to utilizing these historical rates for advanced analysis and comparisons
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
@@ -40,7 +40,7 @@ After selecting a provider, the next step in creating the Fee Schedule is to cho
 
 ### Generate Your Fee Schedule
 
-When you're ready, click "Generate Fee Schedule" and Payerset will crawl our data lake to pull all of the data you requested. This can take from a few seconds up to 10 minutes - fee schedules tend to take longer than typical comparisons because we are pulling all the rates for a given provider.
+When you're ready, click "Generate Fee Schedule" and PurpleLab will crawl our data lake to pull all of the data you requested. This can take from a few seconds up to 10 minutes - fee schedules tend to take longer than typical comparisons because we are pulling all the rates for a given provider.
 
 Once the analysis completes, you will see some KPIs detailing how many rates were found, as well as a visualization showing the distribution of those rates by billing code for each payer.
 
